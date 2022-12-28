@@ -7,7 +7,7 @@ LOGO是一个分布式并行计算框架。
 
 1. [配置LOGO使用环境](https://gitee.com/szu-bdi-student/logo-framework-200/blob/master/RSP-Spark/README_Spark%20with%20RSP1.0.md)
 
-   如这一步配置失败，可在提交任务时指定RSP的[jar包](https://gitee.com/szu-bdi-student/logo-framework-200/blob/master/LOGO/dependencies/spark-rsp_2.11-2.4.0.jar)以解决依赖问题。
+   如这一步配置失败，可在提交任务时指定RSP的[jar包](https://github.com/anonymous-userLOGO/LOGOFRAMEWORK_V2.0/blob/master/LOGO_FRAMEWORK/dependencies/spark-rsp_2.11-2.4.0.jar)以解决依赖问题。
 
 2. 安装Smile算法库
 
